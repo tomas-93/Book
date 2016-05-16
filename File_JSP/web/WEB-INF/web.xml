@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<web-app
+        xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+                             http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+        version="3.1">
+    <display-name> ProjectsOfBook </display-name>
+
+    <!--
+        Etiqueta para la subida de archivos
+
+        <servlet>
+            <servlet-name>UploadFileMainServlet</servlet-name>
+            <servlet-class>file.UploadFileMainServlet</servlet-class>
+            <multipart-config>
+                <location></location>
+                <file-size-threshold></file-size-threshold>
+                <max-file-size></max-file-size>
+                <max-request-size></max-request-size>
+            </multipart-config>
+        </servlet>
+     -->
+    <context-param>
+        <param-name>Primera-Configuracion</param-name>
+        <param-value>Tomas Yussef</param-value>
+    </context-param>
+    <context-param>
+        <param-name>Segunda-Configuracion</param-name>
+        <param-value>Galicia Guzman</param-value>
+    </context-param>
+
+</web-app>

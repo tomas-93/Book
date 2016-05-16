@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Cookies_Session:war">
+    <output-path>$PROJECT_DIR$/Cookies_Session/target</output-path>
+    <root id="archive" name="Cookies_Session-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Cookies_Session:war exploded" />
+    </root>
+  </artifact>
+</component>
