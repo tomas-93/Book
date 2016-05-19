@@ -22,11 +22,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="AppSopport" />
         <module name="Cookies_Session" />
         <module name="File_JSP" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="AppSopport" target="1.8" />
       <module name="Cookies_Session" target="1.8" />
       <module name="File_JSP" target="1.5" />
     </bytecodeTargetLevel>

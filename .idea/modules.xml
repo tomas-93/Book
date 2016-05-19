@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppSopport/AppSopport.iml" filepath="$PROJECT_DIR$/AppSopport/AppSopport.iml" />
       <module fileurl="file://$PROJECT_DIR$/Book.iml" filepath="$PROJECT_DIR$/Book.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cookies_Session/Cookies_Session.iml" filepath="$PROJECT_DIR$/Cookies_Session/Cookies_Session.iml" />
       <module fileurl="file://$PROJECT_DIR$/File_JSP/File_JSP.iml" filepath="$PROJECT_DIR$/File_JSP/File_JSP.iml" />

@@ -29,7 +29,7 @@
            <a href="/shop">Cartas xD</a>
         </li>
         <li>
-            <a href="">Session en actividades</a>
+            <a href="/do/home">Session en actividades</a>
         </li>
     </ul>
    <!-- Latest compiled and minified JavaScript -->
