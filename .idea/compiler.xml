@@ -30,7 +30,7 @@
     <bytecodeTargetLevel>
       <module name="AppSopport" target="1.8" />
       <module name="Cookies_Session" target="1.8" />
-      <module name="File_JSP" target="1.5" />
+      <module name="File_JSP" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -17,7 +17,11 @@ import java.util.Map;
  */
 
 @WebServlet(name = "Servlet", urlPatterns = "/file", loadOnStartup = 1)
-@MultipartConfig( fileSizeThreshold = 5_242_880, maxFileSize = 20_971_520L, maxRequestSize = 41_943_040L)
+@MultipartConfig(
+        fileSizeThreshold = 5_242_880,
+        maxFileSize = 20_971_520L,
+        maxRequestSize = 41_943_040L
+)
 
 public class UploadFileMainServlet extends HttpServlet
 {
