@@ -5,6 +5,7 @@
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/Books" />
+    <file type="web" url="file://$PROJECT_DIR$/Books" />
     <file type="web" url="file://$PROJECT_DIR$/Cookies_Session" />
     <file type="web" url="file://$PROJECT_DIR$/File_JSP" />
     <file type="web" url="file://$PROJECT_DIR$/Session" />
@@ -17,6 +18,7 @@
         <option value="$PROJECT_DIR$/.idea/pom.xml" />
         <option value="$PROJECT_DIR$/AppSopport/pom.xml" />
         <option value="$PROJECT_DIR$/Session/pom.xml" />
+        <option value="$PROJECT_DIR$/AppBooks/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,6 +1,6 @@
 package com.tomas.controller;
 
-import com.tomas.controller.url.Routes;
+import com.tomas.controller.url.SchemeRoutes;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -21,17 +21,15 @@ public class SessionListServlet extends HttpServlet
      {
           if (request.getSession().getAttribute("userName") == null)
           {
-               response.sendRedirect(Routes.LOGIN);
+               response.sendRedirect(SchemeRoutes.LOGIN);
+               return;
           }
+          request.setAttribute("numberOfSessions",
+                  SessionRegistry.getNumberOfSessions());
+          request.setAttribute("sessionList", SessionRegistry.getAllSessions());
+          request.getRequestDispatcher(SchemeRoutes.JSP_SESSION)
+                  .forward(request, response);
      }
 
-     @Override
-     public void doPost(HttpServletRequest request, HttpServletResponse response)
-          throws IOException, ServletException
-     {
-          if (request.getSession().getAttribute("userName") == null)
-          {
-               response.sendRedirect(Routes.LOGIN);
-          }
-     }
+
 }

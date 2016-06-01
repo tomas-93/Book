@@ -1,7 +1,6 @@
 package com.tomas.controller;
 
-import com.sun.org.apache.regexp.internal.RE;
-import com.tomas.controller.url.Routes;
+import com.tomas.controller.url.SchemeRoutes;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -22,11 +21,11 @@ public class LoginServlet extends HttpServlet
      private static final Map<String, String>  USER_DATA_BASE = new Hashtable<>();
      static
      {
-          USER_DATA_BASE.put("user1", "user1");
-          USER_DATA_BASE.put("user2", "user2");
-          USER_DATA_BASE.put("user3", "user3");
-          USER_DATA_BASE.put("user4", "user4");
-          USER_DATA_BASE.put("user5", "user5");
+          USER_DATA_BASE.put("user1@user", "user");
+          USER_DATA_BASE.put("user2@user", "user");
+          USER_DATA_BASE.put("user3@user", "user");
+          USER_DATA_BASE.put("user4@user", "user");
+          USER_DATA_BASE.put("user5@user", "user");
      }
      @Override
      public void doGet(HttpServletRequest request, HttpServletResponse response)
@@ -36,14 +35,14 @@ public class LoginServlet extends HttpServlet
           if (request.getParameter("logout") != null)
           {
                session.invalidate();
-               response.sendRedirect(Routes.LOGIN);
+               response.sendRedirect(SchemeRoutes.LOGIN);
                return;
           }else if(session.getAttribute("userName") != null)
           {
-               response.sendRedirect(Routes.SESSION);
+               response.sendRedirect(SchemeRoutes.SESSION);
                return;
           }
-          request.getRequestDispatcher(Routes.JSP_LOGIN)
+          request.getRequestDispatcher(SchemeRoutes.JSP_LOGIN)
                   .forward(request,response);
      }
      @Override
@@ -53,24 +52,24 @@ public class LoginServlet extends HttpServlet
           HttpSession session = request.getSession();
           if (session.getAttribute("userName") != null)
           {
-               response.sendRedirect(Routes.LOGIN);
+               response.sendRedirect(SchemeRoutes.LOGIN);
                return;
           }
           String userName = request.getParameter("userName"),
                  password = request.getParameter("password");
 
-          if (userName == null && password == null
-                  && !LoginServlet.USER_DATA_BASE.containsKey(userName)
-                  && !password.equals(LoginServlet.USER_DATA_BASE.get(password)))
+          if (userName == null || password == null
+                  || !LoginServlet.USER_DATA_BASE.containsKey(userName)
+                  || !password.equals(LoginServlet.USER_DATA_BASE.get(userName)))
           {
                request.setAttribute("loginFailed", true);
-               request.getRequestDispatcher(Routes.JSP_LOGIN)
+               request.getRequestDispatcher(SchemeRoutes.JSP_LOGIN)
                        .forward(request, response);
           }else
           {
                session.setAttribute("userName", userName);
                request.changeSessionId();
-               response.sendRedirect(Routes.SESSION);
+               response.sendRedirect(SchemeRoutes.SESSION);
           }
      }
 }
