@@ -4,9 +4,10 @@
     <entry_points version="2.0" />
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/AppSopport" />
+    <file type="web" url="file://$PROJECT_DIR$/Books" />
     <file type="web" url="file://$PROJECT_DIR$/Cookies_Session" />
     <file type="web" url="file://$PROJECT_DIR$/File_JSP" />
+    <file type="web" url="file://$PROJECT_DIR$/Session" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -15,6 +16,7 @@
         <option value="$PROJECT_DIR$/Cookies_Session/pom.xml" />
         <option value="$PROJECT_DIR$/.idea/pom.xml" />
         <option value="$PROJECT_DIR$/AppSopport/pom.xml" />
+        <option value="$PROJECT_DIR$/Session/pom.xml" />
       </list>
     </option>
   </component>

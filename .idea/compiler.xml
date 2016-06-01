@@ -25,12 +25,22 @@
         <module name="AppSopport" />
         <module name="Cookies_Session" />
         <module name="File_JSP" />
+        <module name="Session" />
+      </profile>
+      <profile default="false" name="Annotation profile for AppSopport" enabled="true">
+        <sourceOutputDir name="../AppSopport/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../AppSopport/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="Books" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="AppSopport" target="1.8" />
+      <module name="Books" target="1.8" />
       <module name="Cookies_Session" target="1.8" />
       <module name="File_JSP" target="1.8" />
+      <module name="Session" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

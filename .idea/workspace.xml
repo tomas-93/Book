@@ -2,56 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="475a421a-ca37-48b2-9a64-89272b8da25c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT.war" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/WEB-INF/classes/com/tomas/appsopport/controller/BooksServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/WEB-INF/classes/com/tomas/appsopport/model/Book.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/target/classes/com/tomas/appsopport/controller/BooksServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/target/classes/com/tomas/appsopport/model/Book.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File_JSP/target/classes/file/Attachment.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File_JSP/target/classes/file/Ticket.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File_JSP/target/classes/file/UploadFileMainServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File_JSP/target/classes/file_and_jsp/Attachments.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File_JSP/target/classes/file_and_jsp/File.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File_JSP/target/classes/file_and_jsp/UploadFileServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/File_JSP_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/File_JSP_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/src/main/java/com/tomas/appsopport/controller/BooksServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/src/main/java/com/tomas/appsopport/model/Book.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/WEB-INF/content/baseFooter.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/WEB-INF/content/baseHeader.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/WEB-INF/content/book/formBook.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/WEB-INF/content/book/listBook.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/public/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/public/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/web/WEB-INF/content/baseFooter.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/web/WEB-INF/content/baseHeader.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/web/WEB-INF/content/book/formBook.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/web/WEB-INF/content/book/listBook.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/web/WEB-INF/content/book/showBook.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/web/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/web/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/web/public/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AppSopport/web/public/js/app.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/AppSopport/src/web/WEB-INF/web.xml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/src/web/index.jsp" afterPath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/WEB-INF/content/book/showBook.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Books/target/AppSopport-1.0-SNAPSHOT/WEB-INF/classes/com/tomas/appsopport/controller/BooksServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Books/target/AppSopport-1.0-SNAPSHOT/WEB-INF/classes/com/tomas/appsopport/controller/LoginServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Books/target/classes/com/tomas/appsopport/controller/BooksServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Books/target/classes/com/tomas/appsopport/controller/LoginServlet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Books/src/main/java/com/tomas/appsopport/controller/LoginServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Books/target/AppSopport-1.0-SNAPSHOT/WEB-INF/content/book/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Books/web/WEB-INF/content/book/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Session/Session.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Session/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Session/src/main/java/com/tomas/controller/SessionListServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Session/src/main/java/com/tomas/controller/SessionListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Session/src/main/java/com/tomas/controller/SessionRegistry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Session/web/WEB-INF/jsp/base.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Session/web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Session/web/index.jsp" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/WEB-INF/classes/com/tomas/appsopport/controller/BooksServlet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AppSopport/target/classes/com/tomas/appsopport/controller/BooksServlet.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/AppSopport.iml" afterPath="$PROJECT_DIR$/Books/Books.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/pom.xml" afterPath="$PROJECT_DIR$/Books/pom.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/src/main/java/com/tomas/appsopport/controller/BooksServlet.java" afterPath="$PROJECT_DIR$/Books/src/main/java/com/tomas/appsopport/controller/BooksServlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/src/main/java/com/tomas/appsopport/model/Book.java" afterPath="$PROJECT_DIR$/Books/src/main/java/com/tomas/appsopport/model/Book.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT.war" afterPath="$PROJECT_DIR$/Books/target/AppSopport-1.0-SNAPSHOT.war" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterPath="$PROJECT_DIR$/Books/target/AppSopport-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/WEB-INF/classes/com/tomas/appsopport/model/Book.class" afterPath="$PROJECT_DIR$/Books/target/AppSopport-1.0-SNAPSHOT/WEB-INF/classes/com/tomas/appsopport/model/Book.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/WEB-INF/content/baseFooter.jsp" afterPath="$PROJECT_DIR$/Books/web/WEB-INF/content/baseFooter.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/WEB-INF/content/baseHeader.jsp" afterPath="$PROJECT_DIR$/Books/target/AppSopport-1.0-SNAPSHOT/WEB-INF/content/baseHeader.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/WEB-INF/content/book/formBook.jsp" afterPath="$PROJECT_DIR$/Books/target/AppSopport-1.0-SNAPSHOT/WEB-INF/content/book/formBook.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/WEB-INF/content/book/listBook.jsp" afterPath="$PROJECT_DIR$/Books/web/WEB-INF/content/book/listBook.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/WEB-INF/content/book/showBook.jsp" afterPath="$PROJECT_DIR$/Books/target/AppSopport-1.0-SNAPSHOT/WEB-INF/content/book/showBook.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.2.jar" afterPath="$PROJECT_DIR$/Books/target/AppSopport-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.2.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar" afterPath="$PROJECT_DIR$/Books/target/AppSopport-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/Books/web/WEB-INF/web.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/index.jsp" afterPath="$PROJECT_DIR$/Books/web/index.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/public/css/style.css" afterPath="$PROJECT_DIR$/Books/web/public/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/target/AppSopport-1.0-SNAPSHOT/public/js/app.js" afterPath="$PROJECT_DIR$/Books/web/public/js/app.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/target/classes/com/tomas/appsopport/model/Book.class" afterPath="$PROJECT_DIR$/Books/target/classes/com/tomas/appsopport/model/Book.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Books/target/maven-archiver/pom.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/Books/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/Books/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/Books/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/web/WEB-INF/content/baseFooter.jsp" afterPath="$PROJECT_DIR$/Books/target/AppSopport-1.0-SNAPSHOT/WEB-INF/content/baseFooter.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/web/WEB-INF/content/baseHeader.jsp" afterPath="$PROJECT_DIR$/Books/web/WEB-INF/content/baseHeader.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/web/WEB-INF/content/book/formBook.jsp" afterPath="$PROJECT_DIR$/Books/web/WEB-INF/content/book/formBook.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/web/WEB-INF/content/book/listBook.jsp" afterPath="$PROJECT_DIR$/Books/target/AppSopport-1.0-SNAPSHOT/WEB-INF/content/book/listBook.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/web/WEB-INF/content/book/showBook.jsp" afterPath="$PROJECT_DIR$/Books/web/WEB-INF/content/book/showBook.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/Books/target/AppSopport-1.0-SNAPSHOT/WEB-INF/web.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/web/index.jsp" afterPath="$PROJECT_DIR$/Books/target/AppSopport-1.0-SNAPSHOT/index.jsp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/web/public/css/style.css" afterPath="$PROJECT_DIR$/Books/target/AppSopport-1.0-SNAPSHOT/public/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AppSopport/web/public/js/app.js" afterPath="$PROJECT_DIR$/Books/target/AppSopport-1.0-SNAPSHOT/public/js/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/AppSopport_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/AppSopport_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/File_JSP/File_JSP.iml" afterPath="$PROJECT_DIR$/File_JSP/File_JSP.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/File_JSP/pom.xml" afterPath="$PROJECT_DIR$/File_JSP/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/File_JSP/src/main/java/file/UploadFileMainServlet.java" afterPath="$PROJECT_DIR$/File_JSP/src/main/java/file/UploadFileMainServlet.java" />
     </list>
     <ignored path="Book.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -61,6 +66,7 @@
     <ignored path=".idea/dataSources.local.xml" />
     <ignored path="$PROJECT_DIR$/.idea/target/" />
     <ignored path="$PROJECT_DIR$/AppSopport/target/" />
+    <ignored path="$PROJECT_DIR$/Session/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,21 +84,103 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="formBook.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AppSopport/web/WEB-INF/content/book/formBook.jsp">
+      <file leaf-file-name="formBook.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Books/web/WEB-INF/content/book/formBook.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="63" column="30" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+            <state relative-caret-position="627">
+              <caret line="63" column="42" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Books/web/WEB-INF/content/book/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="9" column="87" selection-start-line="9" selection-start-column="87" selection-end-line="9" selection-end-column="87" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="BooksServlet.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AppSopport/src/main/java/com/tomas/appsopport/controller/BooksServlet.java">
+        <entry file="file://$PROJECT_DIR$/Books/src/main/java/com/tomas/appsopport/controller/BooksServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="276" column="40" selection-start-line="276" selection-start-column="32" selection-end-line="276" selection-end-column="40" />
+            <state relative-caret-position="1934">
+              <caret line="132" column="10" selection-start-line="132" selection-start-column="10" selection-end-line="132" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Session/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="553">
+              <caret line="80" column="10" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
+              <folding>
+                <marker date="1464747132509" expanded="true" signature="89:3056" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Session/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Session/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="553">
+              <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SessionListener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Session/src/main/java/com/tomas/controller/SessionListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SessionListServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Session/src/main/java/com/tomas/controller/SessionListServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SessionRegistry.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Session/src/main/java/com/tomas/controller/SessionRegistry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Session/web/WEB-INF/jsp/base.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -103,11 +191,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jsp File" />
         <option value="Tag Library Descriptor" />
-        <option value="Class" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -128,14 +216,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Cookies_Session/web/WEB-INF/index.jsp" />
-        <option value="$PROJECT_DIR$/Cookies_Session/pom.xml" />
-        <option value="$PROJECT_DIR$/Cookies_Session/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/Cookies_Session/web/WEB-INF/jsp/base.jsp" />
-        <option value="$PROJECT_DIR$/Cookies_Session/src/main/java/ShopServlet.java" />
-        <option value="$PROJECT_DIR$/Cookies_Session/src/main/java/StoreServlet.java" />
-        <option value="$PROJECT_DIR$/Cookies_Session/web/WEB-INF/jsp/practica-dos/removeCart.jsp" />
-        <option value="$PROJECT_DIR$/Cookies_Session/web/WEB-INF/jsp/practica-dos/showCart.jsp" />
         <option value="$PROJECT_DIR$/Cookies_Session/web/WEB-INF/jsp/practica-dos/createCart.jsp" />
         <option value="$PROJECT_DIR$/Cookies_Session/web/WEB-INF/jsp/practica-dos/listCart.jsp" />
         <option value="$PROJECT_DIR$/Cookies_Session/web/WEB-INF/jsp/practica-dos/viewCard.jsp" />
@@ -173,11 +253,20 @@
         <option value="$PROJECT_DIR$/AppSopport/src/main/java/com/tomas/appsopport/model/Book.java" />
         <option value="$PROJECT_DIR$/AppSopport/web/WEB-INF/content/book/showBook.jsp" />
         <option value="$PROJECT_DIR$/AppSopport/web/WEB-INF/content/baseFooter.jsp" />
+        <option value="$PROJECT_DIR$/AppSopport/web/WEB-INF/content/book/listBook.jsp" />
+        <option value="$PROJECT_DIR$/AppSopport/src/main/java/com/tomas/appsopport/controller/UserServlet.java" />
         <option value="$PROJECT_DIR$/AppSopport/web/WEB-INF/content/baseHeader.jsp" />
         <option value="$PROJECT_DIR$/AppSopport/web/public/css/style.css" />
-        <option value="$PROJECT_DIR$/AppSopport/web/WEB-INF/content/book/listBook.jsp" />
-        <option value="$PROJECT_DIR$/AppSopport/src/main/java/com/tomas/appsopport/controller/BooksServlet.java" />
+        <option value="$PROJECT_DIR$/AppSopport/src/main/java/com/tomas/appsopport/controller/LoginServlet.java" />
         <option value="$PROJECT_DIR$/AppSopport/web/WEB-INF/content/book/formBook.jsp" />
+        <option value="$PROJECT_DIR$/AppSopport/web/WEB-INF/content/book/login.jsp" />
+        <option value="$PROJECT_DIR$/AppSopport/src/main/java/com/tomas/appsopport/controller/BooksServlet.java" />
+        <option value="$PROJECT_DIR$/Session/pom.xml" />
+        <option value="$PROJECT_DIR$/Session/web/WEB-INF/index.jsp" />
+        <option value="$PROJECT_DIR$/Session/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/Session/web/WEB-INF/jsp/base.jsp" />
+        <option value="$PROJECT_DIR$/Session/src/main/java/com/tomas/controller/SessionListener.java" />
+        <option value="$PROJECT_DIR$/Session/src/main/java/com/tomas/controller/SessionListServlet.java" />
       </list>
     </option>
   </component>
@@ -241,7 +330,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -287,7 +376,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="File_JSP" />
+              <option name="myItemId" value="Session" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -301,7 +390,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="File_JSP" />
+              <option name="myItemId" value="Session" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -319,7 +408,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="File_JSP" />
+              <option name="myItemId" value="Session" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -327,7 +416,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="file-support-2" />
+              <option name="myItemId" value="WEB-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -341,7 +430,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="File_JSP" />
+              <option name="myItemId" value="Session" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -349,7 +438,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="file-support-2" />
+              <option name="myItemId" value="WEB-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -367,135 +456,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="File_JSP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSopport" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSopport" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSopport" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSopport" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSopport" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSopport" />
+              <option name="myItemId" value="Session" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -513,7 +474,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AppSopport" />
+              <option name="myItemId" value="Session" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -524,10 +485,6 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -539,7 +496,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AppSopport" />
+              <option name="myItemId" value="Session" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -552,44 +509,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="appsopport" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AppSopport" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="appsopport" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -598,9 +517,6 @@
             </PATH_ELEMENT>
           </PATH>
         </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane />
       </pane>
       <pane id="Scratches" />
       <pane id="Scope">
@@ -804,17 +720,20 @@
         </subPane>
         <subPane subId="Tests" />
       </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../9781118656464 Full Code/Chapter 05/IntelliJ/Customer-Support-v3" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Tomas/Documents/GitHub/JAVA-EE/Book/AppSopport/src/main/java/com/tomas/appsopport/controller/BooksServlet.java&#10;for&#9;FILE&#9;file://C:/Users/Tomas/Documents/GitHub/JAVA-EE/Book/AppSopport/web/WEB-INF/content/book/formBook.jsp&#10;form&#9;FILE&#9;file://C:/Users/Tomas/Documents/GitHub/JAVA-EE/Book/AppSopport/web/WEB-INF/content/book/formBook.jsp&#10;BASE&#9;FILE&#9;file://C:/Users/Tomas/Documents/GitHub/JAVA-EE/Book/AppSopport/web/WEB-INF/content/baseHeader.jsp&#10;base&#9;FILE&#9;file://C:/Users/Tomas/Documents/GitHub/JAVA-EE/Book/AppSopport/web/WEB-INF/content/baseHeader.jsp&#10;book&#9;FILE&#9;file://C:/Users/Tomas/Documents/GitHub/JAVA-EE/Book/AppSopport/src/main/java/com/tomas/appsopport/controller/BooksServlet.java&#10;inde&#9;FILE&#9;file://C:/Users/Tomas/Documents/GitHub/JAVA-EE/Book/AppSopport/web/index.jsp&#10;boo&#9;FILE&#9;file://C:/Users/Tomas/Documents/GitHub/JAVA-EE/Book/AppSopport/src/main/java/com/tomas/appsopport/model/Book.java&#10;ser&#9;FILE&#9;file://C:/Users/Tomas/Google Drive/GitHub/JAVA-EE/Book/Cookies_Session/src/main/java/com/tomas/store/StoreServlet.java&#10;br&#9;FILE&#9;file://C:/Users/Tomas/Google Drive/GitHub/JAVA-EE/Book/Cookies_Session/web/WEB-INF/jsp/practica-dos/browserCard.jsp&#10;heade&#9;FILE&#9;file://C:/Users/Tomas/Google Drive/GitHub/JAVA-EE/Book/Cookies_Session/web/WEB-INF/jsp/header.jsp&#10;se&#9;FILE&#9;file://C:/Users/Tomas/Google Drive/GitHub/JAVA-EE/Book/Cookies_Session/src/main/java/com/tomas/store/StoreServlet.java&#10;create&#9;FILE&#9;file://C:/Users/Tomas/Google Drive/GitHub/JAVA-EE/Book/Cookies_Session/web/WEB-INF/jsp/practica-dos/createCart.jsp&#10;SER&#9;FILE&#9;file://C:/Users/Tomas/Google Drive/GitHub/JAVA-EE/Book/Cookies_Session/src/main/java/com/tomas/store/StoreServlet.java" />
+    <property name="SearchEverywhereHistoryKey" value="WEB&#9;FILE&#9;file://C:/Users/Tomas/Documents/GitHub/JAVA-EE/Book/Session/web/WEB-INF/web.xml&#10;log&#9;FILE&#9;file://C:/Users/Tomas/Documents/GitHub/JAVA-EE/Book/AppSopport/src/main/java/com/tomas/appsopport/controller/LoginServlet.java&#10;login&#9;FILE&#9;file://C:/Users/Tomas/Documents/GitHub/JAVA-EE/Book/AppSopport/src/main/java/com/tomas/appsopport/controller/LoginServlet.java&#10;for&#9;FILE&#9;file://C:/Users/Tomas/Documents/GitHub/JAVA-EE/Book/AppSopport/web/WEB-INF/content/book/formBook.jsp&#10;form&#9;FILE&#9;file://C:/Users/Tomas/Documents/GitHub/JAVA-EE/Book/AppSopport/web/WEB-INF/content/book/formBook.jsp&#10;BASE&#9;FILE&#9;file://C:/Users/Tomas/Documents/GitHub/JAVA-EE/Book/AppSopport/web/WEB-INF/content/baseHeader.jsp&#10;base&#9;FILE&#9;file://C:/Users/Tomas/Documents/GitHub/JAVA-EE/Book/AppSopport/web/WEB-INF/content/baseHeader.jsp&#10;book&#9;FILE&#9;file://C:/Users/Tomas/Documents/GitHub/JAVA-EE/Book/AppSopport/src/main/java/com/tomas/appsopport/controller/BooksServlet.java&#10;inde&#9;FILE&#9;file://C:/Users/Tomas/Documents/GitHub/JAVA-EE/Book/AppSopport/web/index.jsp&#10;boo&#9;FILE&#9;file://C:/Users/Tomas/Documents/GitHub/JAVA-EE/Book/AppSopport/src/main/java/com/tomas/appsopport/model/Book.java&#10;ser&#9;FILE&#9;file://C:/Users/Tomas/Google Drive/GitHub/JAVA-EE/Book/Cookies_Session/src/main/java/com/tomas/store/StoreServlet.java&#10;br&#9;FILE&#9;file://C:/Users/Tomas/Google Drive/GitHub/JAVA-EE/Book/Cookies_Session/web/WEB-INF/jsp/practica-dos/browserCard.jsp&#10;heade&#9;FILE&#9;file://C:/Users/Tomas/Google Drive/GitHub/JAVA-EE/Book/Cookies_Session/web/WEB-INF/jsp/header.jsp&#10;se&#9;FILE&#9;file://C:/Users/Tomas/Google Drive/GitHub/JAVA-EE/Book/Cookies_Session/src/main/java/com/tomas/store/StoreServlet.java&#10;create&#9;FILE&#9;file://C:/Users/Tomas/Google Drive/GitHub/JAVA-EE/Book/Cookies_Session/web/WEB-INF/jsp/practica-dos/createCart.jsp&#10;SER&#9;FILE&#9;file://C:/Users/Tomas/Google Drive/GitHub/JAVA-EE/Book/Cookies_Session/src/main/java/com/tomas/store/StoreServlet.java" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -823,11 +742,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Tomas\Documents\GitHub\JAVA-EE\Book\Session\web" />
       <recent name="C:\Users\Tomas\Documents\GitHub\JAVA-EE\Book\AppSopport\web" />
       <recent name="C:\Users\Tomas\Documents\GitHub\JAVA-EE\Book\AppSopport\web\WEB-INF\jsp" />
       <recent name="C:\Users\Tomas\Documents\GitHub\JAVA-EE\Book\AppSopport\web\WEB-INF" />
       <recent name="C:\Users\Tomas\Documents\GitHub\JAVA-EE\Book\Cookies_Session\web\WEB-INF" />
-      <recent name="C:\Users\Tomas\Documents\GitHub\JAVA-EE\Book\AppSopport" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Server-AppSupport">
@@ -1388,12 +1307,13 @@
       <workItem from="1464049087912" duration="1489000" />
       <workItem from="1464050638930" duration="19838000" />
       <workItem from="1464143202585" duration="9200000" />
-      <workItem from="1464190775779" duration="12668000" />
+      <workItem from="1464190775779" duration="16766000" />
+      <workItem from="1464571656067" duration="14420000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97027000" />
+    <option name="totallyTimeSpent" value="115545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1409,14 +1329,13 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.96068376" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.96036583" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20574887" sideWeight="0.48772505" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19912152" sideWeight="0.48772505" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1427,6 +1346,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1479,39 +1399,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/File_JSP/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/File_JSP/File_JSP.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cookies_Session/src/main/java/StoreServlet.java" />
-    <entry file="file://$PROJECT_DIR$/Cookies_Session/web/WEB-INF/jsp/practica-dos/removeCart.jsp" />
-    <entry file="file://$PROJECT_DIR$/Cookies_Session/web/WEB-INF/jsp/practica-dos/showCart.jsp" />
-    <entry file="file://$PROJECT_DIR$/File_JSP/web/user/chebox.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cookies_Session/web/WEB-INF/jsp/practica-dos/createCart.jsp" />
-    <entry file="file://$PROJECT_DIR$/Cookies_Session/web/WEB-INF/jsp/practica-dos/listCart.jsp" />
-    <entry file="file://$PROJECT_DIR$/Cookies_Session/web/WEB-INF/jsp/p1/viewCard.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Cookies_Session/src/main/java/com/tomas/store/StoreServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -1542,7 +1429,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/pom.xml" />
     <entry file="file://$PROJECT_DIR$/AppSopport/src/web/index.jsp.tld" />
-    <entry file="file://$PROJECT_DIR$/AppSopport/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Books/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="508">
           <caret line="80" column="10" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
@@ -1656,18 +1543,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AppSopport/web/index.jsp">
+    <entry file="file://$PROJECT_DIR$/Books/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AppSopport/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1679,7 +1558,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AppSopport/web/public/js/app.j.js" />
-    <entry file="file://$PROJECT_DIR$/AppSopport/web/public/js/app.js">
+    <entry file="file://$PROJECT_DIR$/Books/web/public/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
@@ -1690,7 +1569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-174">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1698,7 +1576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1706,7 +1583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="64" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1714,11 +1590,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="111" column="48" selection-start-line="111" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AppSopport/src/main/java/com/tomas/appsopport/model/Book.java">
+    <entry file="file://$PROJECT_DIR$/Books/src/main/java/com/tomas/appsopport/model/Book.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
           <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
@@ -1754,22 +1629,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AppSopport/web/WEB-INF/content/baseHeader.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AppSopport/web/public/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="57" column="14" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/File_JSP/web/file-support-2/jsp/listFile.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-351">
@@ -1778,15 +1637,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AppSopport/web/WEB-INF/content/baseFooter.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AppSopport/web/WEB-INF/content/book/showBook.jsp">
+    <entry file="file://$PROJECT_DIR$/Books/web/WEB-INF/content/book/showBook.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="10" selection-end-column="41" />
@@ -1794,7 +1645,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AppSopport/web/WEB-INF/content/book/listBook.jsp">
+    <entry file="file://$PROJECT_DIR$/Books/web/WEB-INF/content/book/listBook.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
@@ -1802,18 +1653,126 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AppSopport/src/main/java/com/tomas/appsopport/controller/BooksServlet.java">
+    <entry file="file://$PROJECT_DIR$/Books/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="276" column="40" selection-start-line="276" selection-start-column="32" selection-end-line="276" selection-end-column="40" />
+        <state relative-caret-position="227">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AppSopport/web/WEB-INF/content/book/formBook.jsp">
+    <entry file="file://$PROJECT_DIR$/Books/web/WEB-INF/content/baseFooter.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="63" column="30" selection-start-line="63" selection-start-column="30" selection-end-line="63" selection-end-column="30" />
+        <state relative-caret-position="66">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="7" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Books/web/WEB-INF/content/baseHeader.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Books/web/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="40" column="34" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Books/src/main/java/com/tomas/appsopport/controller/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Books/web/WEB-INF/content/book/formBook.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="63" column="42" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Books/web/WEB-INF/content/book/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="9" column="87" selection-start-line="9" selection-start-column="87" selection-end-line="9" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Books/src/main/java/com/tomas/appsopport/controller/BooksServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1934">
+          <caret line="132" column="10" selection-start-line="132" selection-start-column="10" selection-end-line="132" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="80" column="10" selection-start-line="80" selection-start-column="10" selection-end-line="80" selection-end-column="10" />
+          <folding>
+            <marker date="1464747132509" expanded="true" signature="89:3056" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session/web/WEB-INF/jsp/base.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session/src/main/java/com/tomas/controller/SessionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session/src/main/java/com/tomas/controller/SessionListServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Session/src/main/java/com/tomas/controller/SessionRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
           <folding />
         </state>
       </provider>
