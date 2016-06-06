@@ -8,6 +8,8 @@
     <file type="web" url="file://$PROJECT_DIR$/Books" />
     <file type="web" url="file://$PROJECT_DIR$/Cookies_Session" />
     <file type="web" url="file://$PROJECT_DIR$/File_JSP" />
+    <file type="web" url="file://$PROJECT_DIR$/JSPStandardTagLibrery" />
+    <file type="web" url="file://$PROJECT_DIR$/RegistryBook" />
     <file type="web" url="file://$PROJECT_DIR$/Session" />
   </component>
   <component name="MavenProjectsManager">
@@ -19,6 +21,8 @@
         <option value="$PROJECT_DIR$/AppSopport/pom.xml" />
         <option value="$PROJECT_DIR$/Session/pom.xml" />
         <option value="$PROJECT_DIR$/AppBooks/pom.xml" />
+        <option value="$PROJECT_DIR$/RegistryBook/pom.xml" />
+        <option value="$PROJECT_DIR$/JSPStandardTagLibrery/pom.xml" />
       </list>
     </option>
   </component>

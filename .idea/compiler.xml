@@ -24,9 +24,10 @@
         <processorPath useClasspath="true" />
         <module name="AppBooks" />
         <module name="AppSopport" />
-        <module name="Books" />
         <module name="Cookies_Session" />
         <module name="File_JSP" />
+        <module name="JSPStandardTagLibrery" />
+        <module name="RegistryBook" />
         <module name="Session" />
       </profile>
     </annotationProcessing>
@@ -36,6 +37,8 @@
       <module name="Books" target="1.8" />
       <module name="Cookies_Session" target="1.8" />
       <module name="File_JSP" target="1.8" />
+      <module name="JSPStandardTagLibrery" target="1.8" />
+      <module name="RegistryBook" target="1.8" />
       <module name="Session" target="1.8" />
     </bytecodeTargetLevel>
   </component>

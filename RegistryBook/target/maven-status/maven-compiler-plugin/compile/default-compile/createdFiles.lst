@@ -1,0 +1,3 @@
+com\tomas\appsopport\controller\BooksServlet.class
+com\tomas\appsopport\controller\LoginServlet.class
+com\tomas\appsopport\model\Book.class
