@@ -24,6 +24,7 @@
         <processorPath useClasspath="true" />
         <module name="AppBooks" />
         <module name="AppSopport" />
+        <module name="Commons" />
         <module name="Cookies_Session" />
         <module name="File_JSP" />
         <module name="JSPStandardTagLibrery" />
@@ -35,6 +36,7 @@
       <module name="AppBooks" target="1.8" />
       <module name="AppSopport" target="1.8" />
       <module name="Books" target="1.8" />
+      <module name="Commons" target="1.8" />
       <module name="Cookies_Session" target="1.8" />
       <module name="File_JSP" target="1.8" />
       <module name="JSPStandardTagLibrery" target="1.8" />

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BookJavaWeb.iml" filepath="$PROJECT_DIR$/BookJavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Commons/Commons.iml" filepath="$PROJECT_DIR$/Commons/Commons.iml" />
       <module fileurl="file://$PROJECT_DIR$/Cookies_Session/Cookies_Session.iml" filepath="$PROJECT_DIR$/Cookies_Session/Cookies_Session.iml" />
       <module fileurl="file://$PROJECT_DIR$/File_JSP/File_JSP.iml" filepath="$PROJECT_DIR$/File_JSP/File_JSP.iml" />
       <module fileurl="file://$PROJECT_DIR$/JSPStandardTagLibrery/JSPStandardTagLibrery.iml" filepath="$PROJECT_DIR$/JSPStandardTagLibrery/JSPStandardTagLibrery.iml" />

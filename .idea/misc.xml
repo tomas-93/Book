@@ -6,6 +6,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/Books" />
     <file type="web" url="file://$PROJECT_DIR$/Books" />
+    <file type="web" url="file://$PROJECT_DIR$/Commons" />
     <file type="web" url="file://$PROJECT_DIR$/Cookies_Session" />
     <file type="web" url="file://$PROJECT_DIR$/File_JSP" />
     <file type="web" url="file://$PROJECT_DIR$/JSPStandardTagLibrery" />
@@ -23,6 +24,7 @@
         <option value="$PROJECT_DIR$/AppBooks/pom.xml" />
         <option value="$PROJECT_DIR$/RegistryBook/pom.xml" />
         <option value="$PROJECT_DIR$/JSPStandardTagLibrery/pom.xml" />
+        <option value="$PROJECT_DIR$/Commons/pom.xml" />
       </list>
     </option>
   </component>

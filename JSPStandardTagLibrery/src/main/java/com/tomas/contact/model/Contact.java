@@ -3,6 +3,7 @@ package com.tomas.contact.model;
 
 import java.time.Instant;
 import java.time.MonthDay;
+import java.util.Date;
 
 /**
  * Created by Tomas on 06/06/2016.
@@ -12,19 +13,19 @@ public class Contact implements Comparable<Contact>
 {
      private String firstName,
                     lastName,
-                    phoneName,
+                    phoneNumber,
                     address;
      private MonthDay birthday;
-     private Instant instant;
+     private Instant dateCreated;
 
-     public Contact(String firstName, String lastName, String phoneName, String address, MonthDay birthday, Instant instant)
+     public Contact(String firstName, String lastName, String phoneName, String address, MonthDay birthday, Instant dateCreated)
      {
           this.firstName = firstName;
           this.lastName = lastName;
-          this.phoneName = phoneName;
+          this.phoneNumber = phoneName;
           this.address = address;
           this.birthday = birthday;
-          this.instant = instant;
+          this.dateCreated = dateCreated;
      }
      public Contact()
      {
@@ -47,12 +48,12 @@ public class Contact implements Comparable<Contact>
           this.lastName = lastName;
      }
 
-     public String getPhoneName() {
-          return phoneName;
+     public String getPhoneNumber() {
+          return phoneNumber;
      }
 
-     public void setPhoneName(String phoneName) {
-          this.phoneName = phoneName;
+     public void setPhoneNumber(String phoneName) {
+          this.phoneNumber = phoneName;
      }
 
      public String getAddress() {
@@ -71,12 +72,16 @@ public class Contact implements Comparable<Contact>
           this.birthday = birthday;
      }
 
-     public Instant getInstant() {
-          return instant;
+     public Instant getDateCreated() {
+          return dateCreated;
      }
 
-     public void setInstant(Instant instant) {
-          this.instant = instant;
+     public void setDateCreated(Instant dateCreated) {
+          this.dateCreated = dateCreated;
+     }
+     public Date getOldDateCreated()
+     {
+          return new Date(this.dateCreated.toEpochMilli());
      }
 
      @Override
